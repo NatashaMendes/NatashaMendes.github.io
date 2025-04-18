@@ -1,0 +1,12 @@
+
+/* Css criado para estilizar apenas a pagina de discilplinas, simples porém com efeito */
+* {
+    text-align: center;
+    padding-top: 15px;
+}
+nav {
+
+ 
+    margin: 0 auto;
+    background-color: rgb(220, 228, 238)
+}
