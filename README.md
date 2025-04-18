@@ -1,2 +1,1 @@
-# Prova-Thiago---Site-Fatec-Jahu--
-Um site criado para a prova do nosso professor Thiago, mostrando um site que simula nossa faculdade.
+Thiago eu esqueci de criar o site estatico me perdoa, mas baixa os arquivos, bota numa pasta e vizualiza o index.html e vai da pra ver o site certinho. 
